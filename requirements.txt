@@ -1,0 +1,8 @@
+mysql-connector-python
+pandas
+numpy
+tensorflow
+scikit-learn
+psutil
+matplotlib
+tensorflow.keras.layers
